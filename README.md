@@ -16,7 +16,7 @@ Welcome to my collection of **Kaggle competition-winning solutions**! Here, I sh
 - 🚀 **Optimizations:** Hyperparameter tuning, loss functions, efficient inference
 
 ## 🌟 **More Projects**
-Check out my other AI & ML projects in my [GitHub profile](your-github-profile-link)!
+Check out my other AI & ML projects in my [GitHub profile](https://github.com/linyuanthocr)!
 
 ---
 🚀 *Always pushing boundaries in AI & ML!*
